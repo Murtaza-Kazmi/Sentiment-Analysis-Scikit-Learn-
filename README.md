@@ -7,3 +7,7 @@
 -Scikit learn used for logistic regression model.
 
 -Automatic tuning of hyperparameters.
+
+-Keras used for Deep Learning Model
+
+-Also applied Naive Bayes (Bernoulli) 
